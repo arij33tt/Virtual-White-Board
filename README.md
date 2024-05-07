@@ -7,4 +7,4 @@ We went through various literature papers and found out insights about our topic
 The project can be made even better by adding a multicore module and hand contour recognition. Deep learning of OpenCV is used in order to improve hand gesture tracking.
 
 Here is the demo of the project 👇👇
-<img src="demp.jpg" width="300" alt="Resized Image">
+<img src="demo.jpg" width="300" alt="Resized Image">
