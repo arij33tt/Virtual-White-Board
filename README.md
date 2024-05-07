@@ -1,4 +1,4 @@
-A ## Virtual Drawing Board
+## Virtual Drawing Board
 which is a computer- based vision system which is used to draw on screen by detecting the motion of index finger with the camera. 
 The idea of making a software using AI in python, useful in online teaching, presenting presentations and in various other industries. 
 In present condition online teaching has become an alternate mode of teaching via online meets, without using any external devices for drawing or writing on screen one can use Virtual Drawing Board just by opening their camera and using index finger with its motion they can draw or write. 
